@@ -1,1 +1,3 @@
 # html-css-js-project-boilerplate
+EAZY WAY TO GET USER VERIFICATION INPUT.
+THANKS FOR USING.
